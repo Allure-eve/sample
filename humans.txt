@@ -1,15 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+# Fly
 
-    <name> -- <role> -- <twitter>
+   Allure_EVE    Master  bazd_eve@163.com
 
-# THANKS
 
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
